@@ -1,3 +1,3 @@
 # MDP
-Collect Arduino serial output into csv file.
-Change port name and column names as needed.
+Function: Collect Arduino serial output into csv file.
+Run in terminal by running: python capture_date.py
